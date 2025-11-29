@@ -1,1 +1,2 @@
-Today is the first day of my python learning journey.........
+arithmetic_operators program  explains the use of +,-,*,/ operators.
+
